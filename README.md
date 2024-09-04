@@ -37,7 +37,7 @@
 ### 📜 Quote
 
 <p align="center" style="font-size: 20px; color: #2B7722; font-style: italic;">
-  "The only way to do great work is to love what you do." — <strong>Steve Jobs</strong>
+  "If you live each day as it was your last, someday you'll most certainly be right" — <strong>Steve Jobs</strong>
 </p>
 <h3 align="left" style="color: #2B7722;">Languages and Tools:</h3>
 <p align="left"> 
